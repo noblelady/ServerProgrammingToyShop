@@ -1,0 +1,18 @@
+.item{
+  width:10%;
+  margin:0 auto;
+  padding:10px;
+}
+.catalog{
+  width:90%;
+  margin:0 auto;
+}
+.cart-item{
+  text-align:left;
+}
+form{
+  margin-bottom:20px;
+}
+.wrong{
+  color:red;
+}
